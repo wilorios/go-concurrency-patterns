@@ -3,6 +3,7 @@ Golang concurrency patterns
 
 Repository with some examples that explain the golang concurrency patters.
 
+Concurrency refers to the design of the system, while parallelism relates to the execution.
 Concurrency is not parallelism. Parallelism is means parallel execution of processes where as concurrency is about design. 
 
 With concurrency you can:
